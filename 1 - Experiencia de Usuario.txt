@@ -1,0 +1,126 @@
+EXPERIENCIA DE USUARIO
+La experiencia del usuario es todo lo que conlleva el uso de un servicio o un producto.
+La experiencia comienza cuando nace la necesidad (Ej: Enviar un regalo).
+Las malas experiencias son las que se desarrollan sin pensar en todo eso. Las buenas
+son las que se diseñan.
+
+
+
+----- UX = User Experience -----
+El diseño es un proceso de trabajo enfocado en proyectar soluciones para resolver
+problemas puntuales de las personas.
+
+La Experiencia:
+Conjunto de soluciones que suceden ANTES, DURANTE y DESPUES que una persona toma contacto
+con un producto a traves de su interfaz.
+
+USER EXPERIENCE:
+A traves de UX se observa y comprende los comportamientos de las personas para habilitar
+nuevas posibilidades de diseño.
+Es mucho mas que diseñar pantallas y tomar decisiones esteticas.
+Es un proceso que combina multiples disciplinas y saberes para garantizar un camino
+centrado en las personas.
+
+
+--- DCU - Diseño Centrado en el Usuario ---
+Es un proceso de diseño iterativo en el que los diseñadores se centran en los usuarios
+y sus necesidades en cada fase del proceso.
+
+Se usa una combinacion de herramientas de investigacion como pueden ser tecnicas cuantitativas (encuestas) y cualitativas (entrevistas) y de metodos generativos, como 
+brainstorming, brainwriting, idearte, scamper, para desarrollar una comprension de las necesidades del usuario.
+
+Este diseño tiene 4 fases:
+1- Comprension del contexto, en el que los usuarios pueden utilizar un sistema.
+2- Identificamos y especificamos los requisitos del usuario.
+3- Fase de diseño en el que se desarrollan soluciones.
+4- Fase de evaluacion.
+
+El objetivo del proceso es capturar y abordar toda la experiencia de usuario. El equipo
+de diseño debe incluir profesionales de multiples disciplinas y tener en cuenta el 
+involucramiento de los usuarios en la investigacion, realizando un seguimiento
+del uso a largo plazo.
+
+Los usuarios son un sistema de ALERTA TEMPRANA.
+
+
+--- DCU segun Benyon ---
+Distingue 4 formas en el que el DCU da sus frutos:
+
+- PARTICIPACION DE USUARIOS: Es mas probable que los productos satisfagan sus expectativas
+y requisitos.
+
+- ADAPTACION: Productos para personas en contextos especificos y con tareas especificas.
+
+- EMPATIA: Esto es esencial para crear diseños eticos que respeten la privacidad 
+y la calidad de vida.
+
+- PLENA INCLUSION: Centrarse en todos los usuarios de un producto.
+
+
+
+
+----- UI = User Interface -----
+Es el proceso para crear interfaces en software o dispositivos computarizados,
+centrandose en la apariencia o el estilo.
+Es la proyeccion de la capa visual de las interfaces.
+Se busca que sean FACILES DE USAR Y PLACENTERAS.
+Hace foco en lo que el usuario VE cuando utiliza nuestro producto.
+
+Es la combinacion de algunos conceptos y herramientas:
+- Arquitectura de informacion
+- Patrones de diseño
+- Elementos o componentes visuales
+
+
+----- IxD = Interaction Design -----
+Es la disciplina que define la estructura y el comportamiento de los sistemas
+interactivos. 
+
+Hace referencia a los gestos, usos y maneras en las que los usuarios interactuan con un
+producto digital.
+
+Ej: Doble tap para dar like... Deslizar para borrar una notificacion...
+
+El objetivo consiste en estudiar y prever las posibles interacciones que un usuario
+va a ejecutar para ponerle solucion y facilitarle el contacto con un medio digital.
+
+ELEMENTOS QUE INFLUYEN:
+- Los dispositivos y sus caracteristicas. (Ej: Tap, DobleTap, Slice, Swipe, etc).
+- La situacion en que se usaran los productos (Ej: En la calle.. en la cama.. etc).
+- La posicion y tamaño de los elementos.
+- Errores (Planificar posibles errores y las indicaciones que damos cuando suceden).
+
+
+RELACION ARMONICA:
+Cuando nos referimos al diseño UX estamos hablando de la experiencia global con un
+producto, y al referirnos a UI nos centramos en la parte grafica que el usuario vera.
+
+El Deseño de Interaccion se ubicara en esta interseccion donde dialoga la experiencia
+con lo visual.
+
+
+---- DESARROLLOS EN CASCADA ----
+Cada etapa comienza cuando termina la anterior. 
+No se contempla la posibilidad de medir los resultados hasta el final del proyecto. 
+No se realizan iteraciones previas al lanzamiento.
+
+---- DESARROLLOS AGILES ----
+Se propone un abordaje iterativo. 
+Cada iteracion se compone por 3 instancias: analisis, elaboracion y pruebas.
+Segun la complejidad del proyecto se haran tantas iteraciones como sea necesario.
+Los objetivos del usuario y del negocio seran ejes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

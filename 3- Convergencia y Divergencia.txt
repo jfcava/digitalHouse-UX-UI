@@ -1,0 +1,41 @@
+----- IDEACION -----
+La meta de toda ideacion es observar soluciones para un problema definido.
+Lo que se busca es la SOLUCION MAS RELEVANTE para un escenario particular.
+
+-- Errores Comunes --
+
+- JUZGAMOS ideas basados en la opinion de otros.
+- DEPENDEMOS de cuan creativos son algunos miembros de las sesiones.
+- Fallamos en evaluar el IMPACTO en los usuarios.
+- Abordamos la sesion SIN UN BRIEFING adecuado
+
+
+---- DIVERGENCIA Y CONVERGENCIA ----
+"Modelo de doble diamante" de Design Thinking
+
+En el primer diamante se pone FOCO EN EL PROBLEMA, y en el segundo FOCO EN LA SOLUCION.
+Existen sucesivos momentos de DIVERGENCIA Y CONVERGENCIA.
+Se comienza con un proceso de DIVERGENCIA que nos ayuda a promoveer el pensamiento individual, y enfocarnos en los modelos mentales que tiene cada persona en particular.
+
+La CONVERGENCIA nos va a ayudar a socializar, empatizar con los demas, y fusionar 
+pensamientos simples para que se conviertan en ideas complejas. 
+Se define la problematica y se elabora el briefing con el consenso del equipo.
+
+Luego de definido el BRIEFING, se pone FOCO EN LA SOLUCION y comienza otro proceso 
+de DIVERGENCIA, en donde comienza la etapa de IDEACION. 
+
+Luego se van a ir descartando ideas, para llegar a la ultima etapa de CONVERGENCIA,
+para asi llegar a esa ultima idea que vamos a utilizar.
+
+
+--- PROCESO DE IDEACION ---
+
+- ABORDAR EL BRIEF: Establecer espacios solidos para idear en la direccion correcta.
+- PENSAR IDEAS: Generar ideas que encajen en los escenarios planteados.
+- EVALUARLAS: Analizar las ideas con criterio para determinar sus fortalezas y debilidades.
+- PRIORIZAR: Determinar factibilidad, viabilidad e impacto para decidir prioridades.
+
+
+
+--------- RECAPITULANDO ---------
+Ya se llevó a cabo una investigación, poniendo en práctica distintas técnicas para conocer en profundidad a las personas. Se construyó una PROTOPERSONA, con el objetivo de no perder de vista a nuestro usuario, ubicándolo en el centro de la escena y procurando que todos los esfuerzos de trabajo estén dirigidos a este perfíl. A continuación,  se definió con claridad la problemática que se quiso abordar, para luego, a través de sesiones de ideación en equipo, dar con su mejor solución posible.

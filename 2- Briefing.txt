@@ -1,0 +1,44 @@
+----- BRIEFING -----
+Condensacion de toda la investigacion que da por resultado un BRIEF.
+
+BRIEF:
+- Es un documento corto que sintetizara toda la investigacion para abordar los proximos
+pasos.
+- Pasa de un equipo de research a uno de ideacion.
+- Su objetivo es dar un panorama claro al equipo de ideacion para orientar los esfuerzos
+en crear una solucion.
+
+
+Deberia responder las siguientes preguntas:
+- Que le esta sucediendo a las personas?
+- Donde estan los conflictos y puntos de dolor a resolver?
+- Que queremos lograr? Donde podemos mejorar?
+- Que factores de contexto nos rodean?
+- Que limites podemos y no podemos transgredir?
+
+
+
+EJEMPLO:
+
+SITUACION ACTUAL         MOTIVACIONES         CRITERIOS DE EXITO        LIMITES
+Descripcion de la        Principales          Como mediremos            Actores,
+situacion/producto       gatillos que         el exito de estas         Competidores,
+antes de cualquier       hacen de esto        nuevas ideas:             Benchmark y
+solucion.                un problema.                                   contexto.
+
+Desk Research,           User Research,       Expectativas y            PRESENTE
+Datos Cuantitativos.     Personas,            desafios                  Ej: Limitante
+PRESENTE                 Puntos de vista.     proyectados.              economico, de tiempo,
+                         PRESENTE             FUTURO                    etc.
+
+
+EJEMPLO SINTETICO:
+
+PROBLEMA                                            EXPECTATIVA
+Cual es el problema?                                Que queremos mejorar?
+Que entendi que le pasa a las personas?             Que quiero que les pase despues
+                                                    de usar mi solucion?
+
+
+
+

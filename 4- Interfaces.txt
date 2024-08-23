@@ -1,0 +1,19 @@
+------ INTERFACES ------
+
+--- Tipos de Interfaces ---
+
+-- Interfaces Graficas de Usuario (Graphical user interface)
+-- Interfaces controladas por voz (Voice controlled interface)
+-- Interfaces por gestos (Gesture based interface)
+
+
+=> Los usuarios JUZGAN un diseño rapidamente.
+=> Quieren realizar sus tareas con el MINIMO ESFUERZO.
+=> El diseño tiene que ser "INVISIBLE".
+=> Es necesario comprender los CONTEXTOS Y FLUJOS de las tareas que tienen que realizar.
+=> Deben ser AGRADABLES y no generar frustraciones.
+=> El diseño intente PREDECIR la necesidad de un usuario.
+=> Considerar la GAMIFICACION (juego) de ser necesario.
+=> Comunicar VALORES DE MARCA a traves de la interfaz.
+
+"LAS INTERFACES DEBEN PASAR DESAPERCIBIDAS"
