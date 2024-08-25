@@ -1,0 +1,72 @@
+------- MODELOS MENTALES -------
+
+Es una representacion abstracta de como funciona algo.
+Los usuarios contruyen su propio modelo mental que esta basado en EXPERIENCIAS PREVIAS o en su CONOCIMIENTO DE ESTANDARES GENERALIZADOS.
+
+Las ideas se van a traducir en EXPECTATIVAS acerca del funcionamiento que tiene un sistema en particular.
+Ej: ICONO Menu hamburguesa.
+
+El diseñador puede perfilar los modelos mentales de los usuarios, guiandolos en el funcionamiento del producto.
+
+Para comprender como se procesa la informacion, tenemos que introducirnos en los procesos de APRENDIZAJE, ATENCION Y MEMORIA. Asi se construyen estos MODELOS MENTALES.
+
+--- APRENDIZAJE
+Se desarrolla en dos pasos:
+
+FASE DE ASIMILACION en la que se absorbe la informacion y la FASE DE CONSTRUCCION en la que se crea el modelo mental.
+
+Para facilitar el aprendizaje se recomienda implementar:
+- USO DE ESTANDARES
+Utilizar estandares o convenciones en aplicacion similares.
+EJ: sistema de carrito de compras.
+
+- APLICACION DE REGLAS
+Ej: mismas reglas de uso en administrar varias cuentas de un banco.. Mismas opciones.
+
+- LIMITACION DE LA CARGA COGNITIVA
+
+
+
+--- ATENCION
+Nos permite decidir en que informacion nos concentramos.
+Es fundamental que de un solo vistazo se entieda como funciona el sistema DESTACANDO LOS ELEMENTOS DE ACCION mas importantes.
+Ej: CTA (Call to Action)
+Ej2: CHECK IN en un aeropuerto, puerta de embarque, etc, para facilitar el transito de las personas.
+
+
+
+--- MEMORIA
+Se encarga de recopilar informacion, procesarla, organizarla y recuperarla para llevar a cabo una tarea.
+
+- A CORTO PLAZO: permite recordar pequeños items de informacion en un periodo corto de tiempo. Ayuda a tomar decisiones. Se aconseja acotar las opciones que se disponibilizan.
+
+- A LARGO PLAZA: almacena grandes cantidad de informacion durante largos periodos de tiempo. Hay que fomentarla para no forzar al usuario a que se deba aprender desde cero como usar el producto.
+
+Hay que tratar de ofrecer pocas cantidad de opciones disponibles dentro del menu principal. No mas de 5 o 9 items. Para hacer mas fluida la navegabilidad dentro de la aplicacion.
+
+Tambien es importante que los usuarios cuando vuelvan a utilizar la aplicacion recuerden como se utiliza. Para esto hay que construir una ARQUITECTURA DE INFORMACION eficaz.
+El sistema de organizacion, tiene que estructurar la informacion de una forma LOGICA para los usuarios. 
+Ej: etiquetado claro, navegacion consistente, sistema de busqueda.
+Que el usuario pueda acceder a la informacion de una manera facil.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,95 @@
+------- ARQUITECTURA DE INFORMACION -------
+Como se estructura la informacion y se diseña el recorrido de los usuarios entre los diferentes contenidos.
+
+La ARQUITECTURA DE LA INFORMACION nos ayuda a desarrollar los cimientos de nuestro producto digital.
+
+Necesitaremos representar la primera capa no tangible de interaccion que respeta el modelo mental de nuestros usuarios.
+
+ES EL ESTUDIO DE LA ORGANIZACION DE LA INFORMACION.
+Permite a los usuarios encontrar su via de navegacion hacia el conocimiento y la comprension de la informacion.
+
+Ej de Arquitectura de la Informacion:
+- Sistemas alfabeticos de referencia utilizados en el diccionarios.
+
+- Links en la navegacion de un sitio web.
+
+- Secciones, subsecciones y nombres de los platos en el menu de un restaurante.
+
+- Categorias, etiquetas y tareas de un software o una app.
+
+- La señaletica de un aeropuerto para guiar pasajeros.
+
+-- ESTRUCTURA Y ORGANIZACION
+- Debe determinar los contenidos, las funcionalidades del producto y facilitar el acceso.
+
+- Los sistemas de organizacion, busqueda y navegacion son los que ayudan a los usuarios.
+
+
+--- DONDE APARECE LA ARQUITECTURA DE LA INFORMACION (AI) ---
+
+De la convergencia de TRES elementos:
+- USUARUOS: Audiencia de nuestro producto, sus comportamientos, el perfil.
+
+- CONTEXTO: Objetivos, negocio, cultura, tecnologia, y limitaciones que tengan.
+
+- CONTENIDO: Textos, imagenes, datos, volumenes.
+
+
+
+--- REALIZACION DE LA AI ---
+Hay que definir 4 COMPONENTES:
+
+-- ORGANIZACION
+Destinado a categorizar los contenidos y la informacion. Como organizo la informacion.
+
+El objetico primordial es permitir al usuario que sea capaz de intuir donde estara el contenido al que desee acceder.
+Como separar los contenidos.
+
+- Alfabeticamente
+- Cronologicamente
+- Tema
+- Audiencia
+
+
+-- ETIQUETADO -- 
+Definir la terminologia (etiquetado) con la que vamos a agrupar los conjuntos que sean similares de informacion.
+Ej: etiqueta CONTACTO
+
+
+-- NAVEGACION -- 
+Definir una estructura y componentes para ayudar al usuario a desplazarse a traves de un flujo de acceso al contenido
+
+- Navegacion jerarquica
+- Navegacion lineal
+- Navegacion en red
+- Navegacion de hipertexto
+
+
+-- BUSQUEDA
+Generar un sistema de organizacion o motor de busqueda a traves de filtros, recomendaciones, palabras, etc.
+
+
+--- VENTAJAS DE USAR AI ---
+- Garantiza que el contenido esta donde el usuario espera encontrarlo.
+- Ayuda a organizar el contenido de nuestro producto.
+- Permite calcular el tamaño y el contenido que podemos necesitar.
+- Nos aseguramos de no olvidar incluir informacion y elementos.
+
+ARQUITECTOS DE LA INFORMACION: Diseñadores que identifican expectaticas, determinan contenidos, facilitan accesos y planifican a futuro.
+
+
+
+
+--- HERRAMIENTA PARA TRABAJAR CON AI ---
+OW (Optimal Workshop)
+
+Permite realizar test para probar estructuras:
+- Tree Testing
+- Card Sorting
+- First-click Testing
+- Encuestas
+- Research cualitativo
+
+Ayudan a entender los modelos mentales que tienen nuestros usuarios.
+
+

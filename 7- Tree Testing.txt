@@ -1,0 +1,20 @@
+------- TREE TESTING --------
+
+- Herramienta para probar el ARBOL DE NAVEGACION de un sitio web o app.
+
+- Indica si es facil encontrar informacion clave y si se pierden los usuarios en el intento.
+
+Las etiquetas tienen sentido para la gente?
+La forma en que se agrupa ese contenido es logica para las personas?
+Pueden encontrar la informacion que buscan rapidamente? que los detiene?
+
+
+
+Con este TESTING puedemos saber:
+- Cuantas personas llegaron al destino correcto y cuantas no
+
+- Cuantas personas se perdieron en el camino
+
+- Los caminos que tomaron las personas antes de llegar a su destino previsto
+
+- Cuanto tiempo les llevo completar la tarea
