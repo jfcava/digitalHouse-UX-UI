@@ -1,0 +1,36 @@
+------ CARD SORTING ------
+
+Es una tecnica de investigacion que ayuda a descubrir COMO LAS PERSONAS ENTIENDEN Y CLASIFICAN LA INFORMACION.
+
+Implica crear un conjunto de tarjetas (con texto o imagenes) que representan un concepto o elemento y pedir a las personas que las agrupen segun tenga sentido para ellos.
+
+SE PRUEBAN CONCEPTOS, NO USABILIDAD.
+
+
+-- CUANDO ES UTIL? -- 
+
+Cuando se quiere:
+- Diseñar un nuevo producto o modificar/mejorar uno que existe.
+- Descubrir como esperan ver la informacion los usuarios.
+- Comparar como entienden diferentes conceptos.
+- Hacer que los usuarios organicen elementos segun criterios establecidos.
+
+
+--- TIPOS DE CARD SORTING ---
+
+- CARD SORTING ABIERTO
+Los participantes clasifican las tarjetas en grupos que tengan sentido y ETIQUETAN CADA GRUPO ELLOS MISMOS.
+
+Este enfoque es el EQUIVALENTE A UNA PREGUNTA ABIERTA en un estudio tradicional.
+
+
+- CARD SORTING CERRADO
+Los participantes clasifican las tarjetas en GRUPOS QUE LOS DISEÑADORES YA LES VAMOS A DAR SETEADOS POR DEFECTO.
+
+
+- CARD SORTING HIBRIDO
+Los participantes clasifican las tarjetas en grupos YA OTORGADOS a priori y tambien PUEDEN CREAR SUS PROPIOS GRUPOS.
+
+
+
+OPTIMAL WORKSHOP tambien puede utilizarte para realizar este estudio.

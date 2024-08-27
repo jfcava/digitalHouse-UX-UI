@@ -1,0 +1,55 @@
+------ USER FLOW ------
+Es una representacion abstracta de como funciona algo. Una REPRESENTACION GRAFICA del dialogo entre la persona y el sistema.
+
+Normalmente se utiliza en los primeros momentos de la etapa del prototipado, para definir EL CAMINO QUE DEBE HACER NUESTRO USUARIO EN SU INTERACCION CON EL PRODUCTO.
+
+Los flujos de usuario se basan en entender los objeticos que generan una experiencia de uso positiva, para obtener un mejor resultado tanto para los usuarios como para el negocio.
+
+Nos ayudan a determinar los trayectos mas comunes e identificar areas conflictivas, reduciendo la friccion.
+
+
+
+--- TIPOS DE DIAGRAMAS (TASK FLOWS) ---
+
+Se enfoca en las tareas que tiene que tiene que realizar el usuario en cada paso para llegar a un objetivo, en como los usuarios viajan a traves de la app o web mientras realizan una tarea especifica.
+
+Por lo general, solo muestran una ruta y no incluyen multiples ramas o rutas como lo haria un flujo de usuario tradicional.
+
+
+--- FLOWCHART (DIAGRAMA DE FLUJO) ---
+
+- REPRESENTACION GRAFICA DE UN PROCESO. Refleja la secuencia de pasos y decisiones necesarias para realizar un proceso.
+
+- Nos permite identificar el trayecto o proceso que realizan diferentes usuarios para realizar TODAS LAS TAREAS POSIBLES QUE ADMITA EL SISTEMA.
+
+- Cada paso en la secuencia se agrega dentro de una FORMA en diagrama. Los pasos estan vinculados mediante LINEAS de conexion y FLECHAS direccionales.
+
+
+--- USER FLOW (DIAGRAMA DE USUARIO) ---
+
+Se puede plantear con un FLOW CHART o con un WIREFLOW, lo importante es que nos ayude a comprender mejor los pasos que lleva a cabo un usuario a traves de un servicio, app o sitio web completo.
+
+Enfatiza que todos los usuarios pueden no realizar las mismas tareas y PUEDEN TRANSITAR DIFERENTES CAMINOS.
+
+
+---- DIFERENCIAS ----
+
+TASK FLOW: Es lineal, centrado en una sola tarea.
+FLOW CHART: Tiene en cuenta decisiones y distintos escenarios posibles.
+WIREFLOWS: Combina un flowchart con wireframes. Interaccion y diseño de pantalla.
+
+
+
+---- EJEMPLO DE TASK FLOW ----
+
+ENTRADA
+1- Ingresa a la categoria DESTINOS (ENTRADA - Por donde comienza la tarea)
+
+ACCIONES
+2- Selecciona destino (filtros)
+3- Visualiza las actividades
+4- Selecciona la cantidad de pasajeros
+5- Paga las actividades
+
+EXITO
+6- Producto a servicio adquirido
