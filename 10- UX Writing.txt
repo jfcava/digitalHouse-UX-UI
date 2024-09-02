@@ -1,0 +1,83 @@
+****** UX WRITING ******
+
+El diseño de las PALABRAS Y LOS ELEMENTOS CONVERSACIONALES en las interfaces de los usuarios. 
+Se va a diseñar el contenido de tal manera que el usuario experimente el producto como si fuera el personaje principal de una historia.
+
+
+- Como cualquier otro componente visual, EL TEXTO TAMBIEN SE PROTOTIPA y se tiene que poner a prueba. Hay que recordar siempre que el texto tambien es interfaz.
+
+
+--- PATRONES DE LECTURA ---
+
+- Patron F
+Lo mas importante arriba a la izquierda y la atencion se va perdiendo hacia la derecha y hacia abajo.
+
+- Patron Z
+Se lee de izquierda a derecha y en zigzag hacia abajo. Se utiliza cuando imagenes y texto.
+
+- Patron Torta en capas
+El usuario lee la primer parte de cada bloque (en capas) buscando la informacion que considera util.
+
+- Patron Spotted
+Si las palabras mas importantes las destacamos del resto del texto y hay listas con viñetas, los usuarios pueden encontrar la informacion que estan buscando.
+
+
+--- En MOBILE las imagenes llaman mucho la atencion, y los CALL TO ACTION (CTA).
+
+--- Tambien hay una tendencia natural de las personas a mirar los rostros humanos.
+
+
+
+
+***** EL DISEÑO UX TIENE 3 AREAS ******
+- RESEARCH
+- DESIGN
+- CONTENT STRATEGY
+
+Dentro de CONTENT STRATEGY, esta la especialidad de UX WRITING, que se centra en ayudar a los usuarios a alcanzar sus objetivos con el lenguaje.
+
+UX WRITING es la elaboracion de TODOS LOS MENSAJES DEL PRODUCTO.
+
+
+**** UX WRITERS ****
+Se desempeñan en dos areas: MICROCOPY y COPYWRITING
+
+MICROCOPY: Es la parte transaccional y de navegacion del diseño de las palabras, al que se le llama copy.
+
+COPYWRITING: Es la parte con mas personalidad y vitalidad de un producto. Es la forma en la que se expresa la voz de la marca.
+
+
+Los UX WRITERS tienen que poder modular el tono, la voz y el estilo del producto combinando el microcopy y el copywriting. Una vez que estas dos estan definidas, se plasman en una guia de estilos, que tenga especificado como el producto tiene que comunicarse con sus usuarios.
+
+** Cuando se incorpora un UX WRITER? **
+Como buena practica, ANTES DE EMPEZAR A DISEÑAR LAS PANTALLAS O ELEGIR LOS COMPONENTES DE INTERACCION.
+
+Idealmente, los UX Writers deben estar DESDE EL INICIO, trabajando de la mano con los stakeholders (partes interesadas), diseñadores y desarrolladores.
+
+
+---- TIPS ----
+
+- Usar tiempos verbales simples (Evitar usar ej: "Hemos enviado tus datos al vendedor", CAMBIAR POR => "Enviamos tus datos al vendedor")
+
+- Usar una voz activa (Evitar "Tu publicacion fue dada de baja" por => "Dimos de baja tu publicacion")
+
+- Hablar en presente (Evitar "Podras comprar en cuotas con..." por => "Podes comprar en cuotas con...")
+
+- Escribir en positivo (Evitar "No podes pagar en cuotas sin tarjeta de credito" por => "Para pagar en cuotas necesitas una tarjeta de credito")
+
+- No usar abreviaturas
+
+- Usar los formatos conocidos (Evitar "El 03/05/24" por => El 3 de mayo de 2024)
+
+
+
+--- Razones de tener un UX WRITER ---
+
+- Mejora la experiencia del usuario
+- Impulsa la conversion
+- Genera confianza y credibilidad
+
+
+
+
+

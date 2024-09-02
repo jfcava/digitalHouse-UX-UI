@@ -3,13 +3,15 @@ Es una representacion abstracta de como funciona algo. Una REPRESENTACION GRAFIC
 
 Normalmente se utiliza en los primeros momentos de la etapa del prototipado, para definir EL CAMINO QUE DEBE HACER NUESTRO USUARIO EN SU INTERACCION CON EL PRODUCTO.
 
-Los flujos de usuario se basan en entender los objeticos que generan una experiencia de uso positiva, para obtener un mejor resultado tanto para los usuarios como para el negocio.
+Los flujos de usuario se basan en entender los objetivos que generan una experiencia de uso positiva, para obtener un mejor resultado tanto para los usuarios como para el negocio.
 
 Nos ayudan a determinar los trayectos mas comunes e identificar areas conflictivas, reduciendo la friccion.
 
 
 
---- TIPOS DE DIAGRAMAS (TASK FLOWS) ---
+----- TIPOS DE DIAGRAMAS -----
+
+--- TASK FLOWS (DIAGRAMA DE TAREAS) ---
 
 Se enfoca en las tareas que tiene que tiene que realizar el usuario en cada paso para llegar a un objetivo, en como los usuarios viajan a traves de la app o web mientras realizan una tarea especifica.
 
@@ -39,17 +41,50 @@ FLOW CHART: Tiene en cuenta decisiones y distintos escenarios posibles.
 WIREFLOWS: Combina un flowchart con wireframes. Interaccion y diseño de pantalla.
 
 
+**** ANATOMIA DE UN USER FLOW ****
+---- EJEMPLO DE TASK FLOW (Compra de una actividad turistica) ----
 
----- EJEMPLO DE TASK FLOW ----
+ENTRADA (Por donde comienza la tarea)
+1- Ingresa a la categoria DESTINOS 
 
-ENTRADA
-1- Ingresa a la categoria DESTINOS (ENTRADA - Por donde comienza la tarea)
-
-ACCIONES
+ACCIONES (Todo lo que tiene que tocar o seleccionar el usuario)
 2- Selecciona destino (filtros)
 3- Visualiza las actividades
 4- Selecciona la cantidad de pasajeros
 5- Paga las actividades
 
-EXITO
+EXITO (Exito de la tarea dandola por finalizada)
 6- Producto a servicio adquirido
+
+
+---- EJEMPLO FLOW CHART -----
+(Se toma como punto de partida el Task Flow)
+
+- Suelen usarse una serie de figuras geometricas que representan cada paso del proceso. Estas formas se conectan entre si a traves de flechas y lineas que marcan la direccion del flujo, determinando el recorrido.
+
+- Vamos a identificar las tareas, diseñar el camino mas facil en una serie de pasos y finalmente sumar las fallas o problemas que pueda haber en esos caminos.
+
+- Siempre se leen de izquierda a derecha. Y de arriba hacia abajo.
+
+
+- OVALO => Inicio o Final de un diagrama.
+- RECTANGULO => Pasos que tiene un proceso.
+- PARALELOGRAMO => Interaccion del usuario con la aplicacion.
+- ROMBO => Desiciones.
+- CIRCULOS => Errores. Se vinculan con las cajas de decision.
+- FLECHAS => Representan una direccion en el flujo. Tambien para marcar el recorrido de un usuario en particular.
+
+
+
+---- BENEFICIOS DEL USER FLOW ----
+- Crear una interfaz intuitiva
+- Evaluar una interfaz que ya existe
+- Buena comunicacion con los equipos
+- Ejecutar iteraciones rapidas
+
+
+***** HERRAMIENTA PARA USER FLOWS *******
+- WHIMSICAL.COM
+
+
+

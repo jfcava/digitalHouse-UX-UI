@@ -1,0 +1,17 @@
+***** PROTOTIPO *****
+
+Nos permite EXPLICAR, COMUNICAR Y EVALUAR nuestras ideas.
+
+Prototipamos para:
+- Validar hipotesis
+- Comparar caminos alternativos de diseño
+- Fallar rapido y barato
+
+Hay que definir: MATERIALIDAD, ALCANCE Y FIDELIDAD
+
+MATERIALIDAD: El material que elijamos va a depender del TIEMPO disponible y la COMPLEJIDAD que requiera actualizar el prototipo.
+
+ALCANCE: Va a depender de CUANTAS PANTALLAS hay que prototipar. ¿Es una pagina, un flujo o una funcion?
+
+FIDELIDAD: De acuerdo a la cercania con el producto final, la vamos a dividir en 3 grupo: BAJA, MEDIA o ALTA.
+
