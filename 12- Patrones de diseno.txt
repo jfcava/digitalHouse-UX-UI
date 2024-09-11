@@ -1,0 +1,68 @@
+***** PATRONES DE DISENO *****
+Son soluciones estandarizadas y probadas.
+
+Tienen por objetivo:
+- Evitar la busqueda de soluciones a problemas que ya se resolvieron.
+- Brindar un catalogo de elementos reutilizables.
+- Estandarizar el modo en que se disena una interfaz.
+- Facilitar el aprendizaje.
+- Estipular un vocabulario comun entre disenadores.
+
+
+--- TIPOS DE PATRONES DE NAVEGACION
+
+GUIAS DE DISENO DE CADA SISTEMA
+
+Android (Google Material Design)
+iOS (Apple Human Interface Guidelines)
+
+
+- TAB BAR (Android)
+Barra de pestañas que esta en la parte superior de la pantalla y filtra contenido de una misma jerarquia (desde nivel 2).
+Maximo 7 tabs
+
+- TAB BAR (iOS)
+Esta pegado al margen inferior de la pantalla. Nos permite movernos por las distintas secciones. Nunca desaparece.
+Jerarquia nivel 1 / Maximo 5 tabs
+
+Este componente tambien se llama BOTTOM NAVIGATION y tambien se utiliza en apps de andriod, por ejemplo, Instagram. 
+
+- SEGMENTED CONTROL
+Son pestañas como el TAB BAR de android pero en iOS. Y se utilizan en la parte superior. Maximo 5 pestañas, en caso de necesitar mas, una pestaña es un +.
+
+- NAVIGATION DRAWER
+Menu hamburguesa, por lo general se ubica en la parte superior izquierda.
+DESPLIEGA UN CAJON que contiene todos los elementos que nos llevan de una seccion a la otra.
+
+- NAVEGACION HISTORIA (BACK)
+Barra para ir para atras. En Android navega en forma cronologica para atras, incluso otras apps.
+La navegacion historica en la parte superior (UP) android navega en la jerarquia que esta dentro de la app.
+
+En iOS el back historico esta dentro de la app en la parte superior.
+
+
+--- TIPOS DE PATRONES DE INTERACCION
+
+Con CUALES DEDOS interactua el usuario y COMO LOS USA tiene incidencia en el diseño y condiciona la ubicacion de los elementos interactivos en la interfaz.
+
+
+- LISTAS
+Contenido estructurado verticalmente.
+
+- BARRAS DE ACCIONES
+En Android se muestran la parte superior derecha de la interfaz. Y en iOS en la parte inferior.
+
+- DESBORDES
+En Android las opciones que no caben dentro de la barra de accion, se muestran como acciones que se "desbordan", como los puntitos que al presionar aparecen nuevas acciones.
+En iOS se agrupan en el centro de la pantalla inferior.
+
+- ACCESOS RAPIDOS
+En Android es posible mediante un icono triangular que se ubica en el centro de la barra de navegacion. Y en el caso de iOS se realizan realizando un desplazamiento horizontal sobre el objeto sobre el cual queremos mas opciones. 
+
+- SNACK BARS
+Son mensajes que se comunican desde la app a los usuarios y desaparecen automaticamente.
+En Android aparecen en la zona inferior de la pantalla y en iOS en la parte superior.
+
+
+
+

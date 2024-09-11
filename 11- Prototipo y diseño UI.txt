@@ -15,3 +15,35 @@ ALCANCE: Va a depender de CUANTAS PANTALLAS hay que prototipar. ¿Es una pagina,
 
 FIDELIDAD: De acuerdo a la cercania con el producto final, la vamos a dividir en 3 grupo: BAJA, MEDIA o ALTA.
 
+
+-- BAJA FIDELIDAD
+Se fabrican en papel para probar rapidamente cuestiones basicas de diseno.
+Rapido y poco detallista.
+
+-- MEDIA FIDELIDAD
+Son los conocidos como WIREFRAMES, SE HACEN CON HERRAMIENTAS DIGITALES que nos ayudan a maquetar las pantallas en formato esqueleto.
+
+Tiene mas detalles que el prototipo en baja. La mayoria del CONTENIDO ES REAL(o cercacano al real) y se coloca en las pantallas digitalizadas.
+
+
+-- WIREFRAMES
+
+- Son una version digitalmente estructurada de los prototipos en baja.
+Tienen que ser SEMIFUNCIONALES, pero no deben incluir NINGUNA DECISION ESTETICA: nada de imagenes o colores. Todo esto podria sacar de foco lo que en realidad queremos testear.
+
+- No se definen TIPOGRAFIAS, MARGENES NI ESTILOS al 100%. Hay que comenzar por la navegacion y elementos estructurales.
+
+- En este punto ya se habran VALIDADO LOS USER FLOWS mas importantes de la solucion.
+
+-- ALTA FIDELIDAD
+
+- Tener en cuenta la paleta de COLORES, TIPOGRAFIA Y ANIMACIONES.
+
+- Seguimos en etapa de ensayo y error. Es importante no olvidar que podemos validarlo e iterar.
+
+- Tambien sera el ENTREGABLE FINAL, EL MOCKUP. Es la interfaz de usuario donde se aplica el diseno visual al diseno de interaccion.
+
+--- PROTOTIPOS HACIA EL DESARROLLO ---
+
+SKETCH => WIREFRAME => MOCKUP O PROTOTIPO FUNCIONAL => DESARROLLO
+

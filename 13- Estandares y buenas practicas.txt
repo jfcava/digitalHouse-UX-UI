@@ -1,0 +1,63 @@
+***** ESTANDARES Y BUENAS PRACTICAS ******
+
+--- HOME
+Tiene que poder mostrar de una manera rapida cual es valor que ofrece nuestro producto.
+Se estima que un usuario se mantiene en la home por unos 30 segundos aprox. Deberiamos entregar mensajes de unas 100 palabras.
+
+ENFOCARSE EN:
+- Donde esta el usuario
+- Beneficios que se otorgan
+- Producto / servicio ofrecido
+- Como obtenerlo
+
+
+-- PRACTICAS DE DISEÑO
+
+- El LOGO del producto tiene que ubicarse en la zona superior izquierda.
+- Incluir una bajada que comunique la PROPUESTA DE VALOR del producto.
+- Agregar una DESCRIPCION BREVE del producto, para ampliar informacion.
+- Utilizar un CTA (Call to Action) claro y visible
+- Mencionar caracteristicas del producto.
+- Usar imagenes que aporten informacion y que no solo sean decorativas.
+- Los elementos de navegacion (links, buscador, etc) tienen que ser visibles en la parte superior de la pagina.
+
+
+EL USUARIO HACE SCROLL?
+
+"Above the fold" es la seccion de la pagina que es visible sin hacer scroll.
+
+Los usuarios destinan solo el 20% de atencion a la lectura "below the fold".
+
+
+- TRAFICO
+El trafico de la Home decrece a medida que pasa mas tiempo desde el lanzamiento del producto.
+No asumir que el recorrido fue lineal, hay que considerar a la Home como una pagina mas.
+
+
+
+---- LEYES APLICADAS A UX ----
+
+-- LEY DE FITTS
+"El tiempo necesario para moverse y alcanzar un objetivo depende directamente de la distancia y el tamaño del objetivo" -FITTS
+
+- Predice EL TIEMPO NECESARIO PARA MOVERSE rapidamente desde una posicion inicial hasta una zona destino. El usuario debe encontrar lo que necesita de una manera rapida y con el menor esfuerzo posible.
+
+- Los botones o acciones importantes las posicionaremos en un lugar donde nuestro pulgar pueda acceder de manera comoda.
+
+- No haremos los formularios demasiado extensos, para mejorar las conversiones.
+
+- Diseñaremos los botones con tamaños grandes y llamativos.
+
+
+
+-- LEY DE HICK
+"El tiempo que se tarda en adoptar una decision, aumenta a medida que se incrementa el numero de opciones" -Hick
+
+- Diseñar con armonia para minimizar el tiempo de reaccion del usuario y conducirlo hacia lo que el estaba buscando, o bien hacia donde nosotros queremos llevarlo.
+
+
+
+-- LEY DE TESLER
+"Para cualquier proceso existe un nivel basico de complejidad, inherente al propio proceso. Una vez alcanzado ese nivel minimo no se puede simplificar mas, solo se puede mover la complejidad de una lado a otro" -Tesler
+
+
