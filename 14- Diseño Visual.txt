@@ -1,0 +1,182 @@
+***** DISEÑO VISUAL *****
+
+-- RESOLUCION
+Es el numero de pixeles que puede ser mostrado en la pantalla.
+Viene dada por el producto del ancho por el alto, medidos ambos en pixeles, con lo que se obtiene una relacion, llamada RELACION DE ASPECTO.
+
+- TAMAÑO ABSOLUTO: la anchura y altura de la ventana del monitor, medido generalmente en pulgadas
+- RESOLUCION O TAMAÑO RELATIVO: determinada por el numero de pixeles que se muestran en la ventana del monitor, siendo el pixel la unidad minima de informacion que se puede presentar en pantalla.
+
+
+
+-- MODULOS
+
+- Mobile: 1 o 2 modulos de contenido.
+Resoluciones standard:
+Hasta 480px, hasta 640px, hasta 720px
+
+- Tablet: 2, 3 o 4 modulos de contenido
+Resoluciones standard:
+Hasta 760px, 800px, 900px, hasta 992px
+
+- Desktop:  4, 6, 8, 12 modulos de contenido
+Resoluciones standard:
+1024px, 1280px, 1366px, 1420px, 1680px, 1920px
+
+
+
+--- PRINCIPIOS DE LA GESTALT
+"El todo es DISTINTO y es MAS que la suma de sus partes"
+
+La mente percibe las formas a traves de TOTALIDADES. Agrupa las formas siguiendo algunos principios conocidos como LEYES DE LA GESTALT.
+
+
+- LEY DE PROXIMIDAD
+Frente a un conjunto de elementos distintos tendemos a agrupar los que estan mas proximos en un espacio determinado.
+
+
+- LEY DE SEMEJANZA
+A partir de una organizacion visual vamos a tender a agrupar los elementos por forma, tamaño, color, textura. Como formando parte de un conjunto.
+
+
+- LEY DE CONTINUIDAD
+Los elementos dispuestos sobre un mismo eje van a tender a guiar nuestra mirada. Menus desplegables, tabs, carruseles. Forman un flujo y se perciben como un todo.
+
+
+- LEY DE CIERRE
+Cuando se presenta un elemento incompleto en su forma, vamos a tender a completarla a partir de patrones que conocemos en nuestros modelos mentales.
+
+
+- LEY DE FIGURA Y FONDO
+Nuestra percepcion siempre intenta reconocer una figura por sobre un fondo. Para guiar la atencion de un usuario hacia lo importante.
+
+
+
+
+******* TEORIA DEL COLOR **********
+El color crea un dialogo entre el diseño y su audiencia, ya sea que desee despertar interes, transmitir un mensaje o despertar emociones.
+
+
+--- PALETA DE COLORES
+
+- Es una coleccion de colores que se usan para diseñar una interfaz de usuario.
+- Contiene un conjunto especifico de colores para usar en una app o sitio web.
+- Es esencial para establecer la ARMONIA VISUAL, definir la identidad de la marca e influir en el comportamiento del usuario.
+
+
+--- SISTEMA DE COLORES
+
+- Es una coleccion de colores elegidos de un rango visual particular. Como una caja de herramientas de color donde se puede mezclar algunos colores seleccionados para crear sombras y matices.
+
+- Contiene un conjunto especifico de colores para usar en una app o sitio web.
+
+- RGB, CMYK y Lab
+
+
+--- TEORIA DEL COLOR
+
+- Concebida a partir de la invencion de la RUEDA CROMATICA y se fue expandiendo mas alla de la identificacion de colores primarios, secundarios y terciarios.
+
+- Hay componentes criticos:
+Tono o Matiz (H)
+Saturacion (S)
+Luminosidad (L)
+
+
+
+--- COMO SE APLICA EN LA PRACTICA LA TEORIA DEL COLOR EN EL DISEÑO DE UNA INTERFAZ?
+
+Creando combinaciones de colores para la armonia del diseño.
+
+- MONOCROMATICO
+Un tono en particular, y se crean elementos de diseño a partir de sombras y tintes de este tono.
+
+- ANALOGO
+3 colores que esten uno al lado del otro en la rueda cromatica.
+
+- COMPLEMENTARIOS
+Colores opuestos dentro de la rueda cromatica.
+
+- TRIADICO Y CUADRADO
+
+
+
+--- POR QUE ES IMPORTANTE APLICAR LA TEORIA DEL COLOR?
+
+- Interfaces visualmente atractivas, intuitivas y faciles de navegar.
+- Distinguie elementos clave + jerarquia visual
+- Mayor participacion del usuario
+- Mejor usabilidad + experiencia positiva
+- Reforzar la identidad de la marca
+
+
+
+--- PSICOLOGIA DEL COLOR
+Cambia segun el contexto cultural.
+
+
+- ROJO
+Poder, Importancia, Fuerza, Juventud, Pasion
+
+- NARANJA
+Amistad, Alegre, Energico, Unico, Vibrante
+
+- VERDE
+Crecimiento, Estabilidad, Medio Ambiente, Seriedad
+
+- AZUL
+Calma, Confianza, Apertura, Firmeza
+
+- NEGRO
+Poder, Exclusividad, Sofisticacion, Elegancia
+
+- BLANCO
+Simplicidad, Pureza, Limpieza, Levedad
+
+- GRIS
+Paz, tenacidad
+
+- PURPURA
+Misticismo, sensualidad, elegancia
+
+- AMARILLO
+Energia, felicidad, diversion
+
+- ROSA
+Dulzura, exquisitez, amistad, gratitud
+
+
+--- FUNCION DEL COLOR
+
+- Atencion y jerarquia
+- Agrupamientos
+- Uso semantico
+- Uso simbolico
+
+
+
+**** CONSIDERACIONES PARA ELEGIR UNA PALETA ****
+
+- Elegir los colores PRIMARIOS, SECUNDARIOS Y DE ACENTO
+- Evitar el blanco o negro absoluto (cansan la vista, utilizar escala de grises)
+- Mantener la consistencia
+- Usar colores semanticos (Ej: verde OK, rojo ERROR)
+
+- Seguir la regla de 60-30-10
+Garantiza equilibro y comodidad visual.
+60% color primario
+30% color secundario
+10% color de acento
+
+
+
+**** HERRAMIENTAS PARA PALETAS DE COLORES ****
+
+- W3SCHOOLS.COM 
+- ADOBE COLOR
+- COLORMIND
+- COLORMIND
+- COOLORS
+
+
+
