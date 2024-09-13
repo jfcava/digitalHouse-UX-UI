@@ -1,0 +1,80 @@
+******** USABILIDAD **********
+La usabilidad es un atributo de calidad que evalua la facilidad de uso de las interfaces de usuario.
+
+La palabra tambien se refiere a metodos para mejorar la facilidad de uso durante el proceso de diseño.
+
+El 75% de los problemas de USABILIDAD estan relacionados a un mal diseño de Arquitectura de Informacion. El 25% restante esta en la UI.
+
+
+--- FORMA Y FUNCION
+
+- Como la forma obedece a la funcion y la funcion a la forma, es un debate que va y viene.
+
+- Las decisiones de forma y de funcion que tomemos van a obedecer al mercado, al contexto tecnologico, a la expresion del producto, etc.
+
+- La funcion (Arquetectura y diseño de interaccion) tranda impacto sobre la FORMA (Diseño de Interfaz/UI) y viceversa.
+
+
+
+--- QUE LE PEDIMOS AL USUARIO CUANDO NAVEGA UNA INTERFAZ VISUAL?
+
+- Interpreta palabras = USABILIDAD VERBAL
+Es la propiedad que tiene el lenguaje verbal de evidenciar la compresion del uso del componente.
+
+- Comprende componentes de interaccion = AFFORDANCES
+Es la propiedad de un elemento de evidenciar visualmente la compresion de su uso. Ej: Un boton debe ser evidente para que sirve.. o un objeto deberia ser evidente para que se utiliza.
+
+- Interpreta imagenes = COMUNICACION VISUAL
+La aplicacion de atributos de imagen son imprescindibles para transmitir los valores de la marca o el producto.
+
+
+
+**** PRUEBA DE USABILIDAD ****
+
+Es una tecnica usada en el diseño centrado en el usuario. Permite MEDIR Y RELEVAR LA EXPERIENCIA que tiene una persona cuando interactua con un producto o servicio.
+
+Se utilizan para:
+- DEMOSTRAR HIPOTESIS con hechos reales.
+- ENTENDER EL COMPORTAMIENTO de los usuarios.
+- EVITAR DISCUSIONES innecesarias con el equipo de trabajo.
+- ENCONTRAR PROBLEMAS especificos, que solo pueden ser detectados realizando una prueba.
+- VER si estamos en el CAMINO CORRECTO.
+
+
+- COMO LLEVARLA A CABO?
+
+** Definir UNA TAREA: generar un escenario hipotetico
+- Usar lenguaje coloquial
+- Evitar tecnicismos y palabras encriptadas
+- Evitar inducir al usuario
+- Evitar mencionar elementos de la interfaz (Ej: "usa el buscador", "hace click en el boton", etc.)
+
+
+** PROPOSITO DE PRUEBA
+Es INTERNO, para el equipo de diseño. Tambien es amplio, no presenta necesidad ni escenario.
+
+** TAREA PARA EL USUARIO
+Es EXTERNA. Es bien especifica y suma un escenario estableciendo una necesidad clara para el usuario.
+
+
+
+*** Para realizar las pruebas de usabilidad es importante utilizar un metodo que se llama "THINK ALOUD", en el que se invita al usuario a que se exprese verbalmente, que mencione las acciones y pensamientos que esta teniendo en voz alta mientras utiliza la interfaz. 
+Sirve para entender que pasa por su cabeza cuando utiliza nuestro protitipo.
+
+
+*** Para las pruebas podemos utilizar FIGMA. Con la funcionalida PROTOTYPE. Les vamos a dar un OBJETIVO, y que intente alcanzarlo utilizando nuestra interfaz.
+
+
+EJEMPLO!!!
+
+- PROPOSITO DE PRUEBA: Conectar con otras personas para jugar al futbol amateur y que nadie se quede sin lugar.
+
+- TAREA PARA EL USUARIO: Desde hace un tiempo organizas partidos de futbol semanales. Son las 20:00 y a las 22:00 se juega el partido, pero uno de los jugadores te aviso que hoy va a faltar. Usando esta app, podes encontrar a un jugador que lo reemplace.
+
+
+
+
+
+
+
+

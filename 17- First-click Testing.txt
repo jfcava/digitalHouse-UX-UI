@@ -1,0 +1,23 @@
+****** FIRST-CLICK TESTING *******
+
+"Pruebas de usabilidad First Click: una nueva metodologia para predecir el exito de las tareas de los usuarios"
+
+- Se analizaron 12 pruebas de usabilidad basadas en distintos escenarios.
+- Se descubrio que las personas tenian EL DOBLE DE PROBABILIDADES DE COMPLETAR UNA TAREA CON EXITO si hacian bien el primer click.
+
+
+
+--- OPTIMAL WORKSHOP / CHALKMARK
+
+- Se cargaran capturas de pantalla, bocetos o wireframes que se quieran testear.
+
+- Luego, se pide a las personas completar distintas tareas haciendo click donde creen que encontraran la informacion correcta.
+
+¿QUE INFORMACION NOS BRINDA?
+Los resultados van a permitir tomar decisiones sobre:
+
+- El contenido y los elementos visuales a priorizar para el publico objetivo.
+
+- El wording que se utiliza para las etiquetas, enlaces y contenido.
+
+- Donde colocar elementos como botones, iconos, menus, etc.

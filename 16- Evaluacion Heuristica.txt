@@ -1,0 +1,105 @@
+********* EVALUACION HEURISTICA ***********
+
+PRINCIPIOS DE HEURISTICA
+Son 10 principios de diseño que nos acercan a cumplir con la USABILIDAD.
+
+
+1- VISIBILIDAD DEL ESTADO DEL SISTEMA
+Se debe INFORMAR A LOS USUARIOS del estado del sistema, dando una RETROALIMENTACION apropiada en un tiempo razonable.
+
+Ej: Google Drive, al subir un archivo nos esta avisando cuanto resta para completarse. Si se completo con exito, pantallas de loading, etc.
+
+Cada accion deberia generar una respuesta del sistema que sea perceptible para el usuario.
+
+
+
+2- CONSISTENCIA ENTRE EL SISTEMA Y EL MUNDO REAL
+Hay que USAR EL LENGUAJE DE LOS USUARIOS, con metaforas, palabras o frases que le sean conocidas, en lugar de los terminos que se utilizan en el sistema.
+
+Ej: Papelera de Windows, donde se eliminan archivos. El boton de PLAY de un reproductor, etc.
+
+
+
+3- CONTROL Y LIBERTAD PARA EL USUARIO
+Los usuarios suelen elegir las funciones del sistema por error y necesitaran una "SALIDA DE EMERGENCIA" que este marcada con claridad para salir del estado no deseado sin tener que pasar por un dialogo extendido.
+
+Ej: Boton de deshacer, boton de ir para atras, etc.
+
+
+
+4- CONSISTENCIA Y ESTANDARES
+El usuario debe seguir las NORMAS Y CONVENCIONES de la plataforma, para que no se tenga que preguntar el significado de las palabras, situaciones o acciones del sistema.
+
+Ej: Icono campanita para notificaciones, el carrito de compras, el avatar para opciones del usuario, corazon con favoritos, etc.
+
+
+
+5- PREVENCION DE ERRORES
+Es mas importante prevenir la aparicion de errores que generar buenos mensajes de error. Hay que eleminar acciones predispuestas al error o, en todo caso, localizarlas y preguntar al usuario si esta seguro de realizarlas.
+
+Ej: Estas seguro de eliminar el archivo?, palabras mal escritas marcadas con subrayado rojo, etc.
+
+
+
+6- MINIMIZAR EL USO DE LA MEMORIA
+El sistema debe MINIMIZAR LA INFORMACION que el usuario debe recordar, mostrandola a traves de objetos, acciones u opciones. El usuario no tiene po que recordar la informacion que recibio anteriormente.
+
+Ej: Autocomplete en un buscador, opciones por default, elementos vistos anteriormente, etc.
+
+
+
+7- FLEXIBILIDAD Y EFICIENCIA DE USO
+Los aceleradores permiten aumentar la velocidad de interaccion para el usuario experto de modo tal que el sistema pueda atraer a usuarios principiantes y experimentados. El sistema debe permitir personalizar acciones frecuentes para acelerar su uso.
+
+Ej: Shortcuts como CTRL C para copiar, etc.
+
+
+
+8- DISEÑO ESTETICO Y MINIMALISTA
+La interfaz no debe contener informacion que no sea relevante o se utilice raramente, ya que cada unidad adicional de informacion en un dialogo compite con las unidades relevantes de la informacion y disminuye su visibilidad relativa.
+
+
+
+9- RECONOCER, DIAGNOSTICAR Y RECUPERARSE DE ERRORES
+Los mensajes de error deben expresarse en un lenguaje claro, indicar exactamente el problema y ser constructivos.
+
+Ej: Marcar donde esta el error al llenar mal un formulario.
+
+
+
+10- AYUDA Y DOCUMENTACION
+La documentacion tiene que ser facil de encontar, estar centrada en las tareas del usuario, tener informacion de las etapas a realizar y no ser muy extensa.
+
+Ej: Utilizar un on-boarding al ingresar a una aplicacion, manual de ayuda, descripcion de la accion al hacer un hover en un boton, etc.
+
+
+
+
+***** EVALUACION HEURISTICA *****
+
+- Es un metodo de inspeccion de la usabilidad sin usuarios.
+
+- Se examina la CALIDAD DEL USO de una interfaz por parte de varios evaluadores, a partir del cumplimiento de los principios heuristicos.
+
+- Crucial y muy util a la hora de encontrar errores de usabilidad, pero NUNCA SUSTITUYE A LAS EVALUACIONES DE USABILIDAD CON USUARIOS REALES.
+
+
+En un tabla, se va registrando cada PRINCIPIO HEURISTICO viendo si se cumple o no, y cual seria la propuesta para solucionar el error que encontramos.
+
+
+--- ESCALA DE MEDICION
+
+0 = NO ES UN PROBLEMA de usabilidad.
+1 = PROBLEMA SIN IMPORTANCIA. No necesita arreglarse a menos que haya tiempo libre.
+2 = PROBLEMA DE POCA IMPORTANCIA. Ajustar el problema tiene baja prioridad.
+3 = PROBLEMA GRAVE. Es importante arreglar el problema y tiene alta prioridad.
+4 = CATASTROFE. Es imperativo resolver el problema.
+
+
+--- CUANDO HACER UNA EVALUACION HEURISTICA
+
+- Al comenzar un proyecto de rediseño
+- Antes de comenzar la implementacion
+- Despues de una actualizacion importante
+- Como parte de una evaluacion continua
+

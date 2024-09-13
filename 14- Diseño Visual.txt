@@ -180,3 +180,40 @@ Garantiza equilibro y comodidad visual.
 
 
 
+
+****** TIPOGRAFIAS *******
+
+-- FAMILIAS TIPOGRAFICAS
+Conjunto de caracteres que comparten entre si ciertas caracteristicas estructurales y estilisticas.
+
+- SAN SERIF (Helvetica): Se asocia con lo contemporaneo, juvenil y neutralidad. Pensado para una lectura rapida y alta legibilidad.
+
+- SERIF (Roman): Estilo clasicos, serios, estables.
+
+- CURSIVAS (Script)
+- DECORATIVAS (graphic)
+Ambos para fines decorativos, no se recomiendan para uso digital.
+
+
+
+-- INTERLETRADO
+Es el espacio que hay entre letra y letra.
+De facil control en diseño impreso, no tan asi en diseño digital.
+Un interletrado muy ajustado dificulta la lectura pero puede convertirse en un recurso de diseño cuando se quiere comunicar integridad o mezcla.
+
+
+-- INTERLINEADO
+Es el espacio que hay entre cada renglon.
+El interletrado e interlineado no se puede controlar igual en diseño digital. Por que los tamaños y extension de las oraciones que determinen en la web pueden ser modificados dependiendo la pantalla de visualizacion.
+
+
+
+-- CANTIDAD RECOMENDADA PARA UN DISEÑO: 2
+
+- Que sea escalable
+- Que posea multiples variables
+- Que tenga formas facilmente reconocibles
+
+
+
+
