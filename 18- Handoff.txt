@@ -1,0 +1,11 @@
+******* HANDOFF *******
+Entregar el prototipo en alta fidelidad, testeado al equipo de desarrollo.
+
+--- ALGUNOS TIPOS
+
+- Trabajar COLABORATIVAMENTE desde el primer dia.
+- Ser EMPATICOS con los developers.
+- Usar ARCHIVOS finales separados (en FIGMA)
+- Asegurarse de incluir todos los ESTADOS de las pantallas.
+- Aplicar RESPONSIVE DESIGN si aplica.
+- Agregar WORKFLOWS y NOTAS de implementacion.

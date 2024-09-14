@@ -1,0 +1,65 @@
+******* ACCESIBILIDAD ********
+
+Llamamos accesibilidad al conjunto de medidas, que deben tomarse durante la definicion, disenio y desarrollo del software, para que el producto final pueda ser COMPRENDIDO, UTILIZADO Y ALIMENTADO por todos los usuarios, mas alla de sus dificultades (tecnicas, fisicas o intelectuales) al MISMO NIVEL DE COMPRENSION, NAVEGABILIDAD Y SEGURIDAD que cualquier otro usuario sin esas dificultades.
+
+
+------- COLOR: CONTRASTES Y DEPENDENCIAS ---------
+
+- Es una medida que representa la relacion de LUMINANCIA entre dos colores en pantalla. La relacion de contraste varia en una proporcion de 1 a 21.
+
+- El MAYOR CONTRAST RATIO se da entre el negro y el blanco teniendo una proporcion entre ellos de 21; y se expresa asi: 21:1
+El MENOR CONTRAST RATIO entre dos colores serie entonces de 1:1
+
+- A MAYOR RATIO, MEJOR LEGIBILIDAD
+
+
+
+------- DEPENDENCIA DEL COLOR: Labels para ordenar contenido --------
+
+- En este sistema de labels (o etiquetas) cada color les ayuda a las personas usuarias a ordenar un contenido determinado.
+
+- Esto puede parecer una gran idea, pero QUE PASA SI UNA PERSONA SUFRE DE ALGUN TIPO DE DALTONISMO?
+
+Si SUMAMOS UNA TRAMA a cada color se puede mantener el sistema de organizacion de contenido.
+
+Pero lo importante es que a su vez se ayuda a las personas con DALTONISMO para que puedan distinguir un label de otro, sin importar su capacidad para percibir el color.
+
+
+
+------- TAMAÑO DE LA FUENTE -------
+
+- El tamaño ideal de tipografia es de 16px de minimo, ese es el estandar de los navegadores web. Y el texto debe ser ZOOMEABLE al 200%.
+
+- Los pixeles son valores absolutos. Lo idea es diseñar en tamaños relativos: tomando como base los 16px se pueden realizar conversiones a las otras unidades de medida. Unidades relativas:
+** em: relativo al elemento "padre".
+** em: relativo a elemento raiz (HTML).
+
+
+
+------ TAMAÑO DEL AREA TAPEABLE ------
+
+- Es muy importante tener presente el tamaño del area tapeable de los iconos y botones. Hay que considerar posibles problemas motrices o de vision, poca precision de tap o mouse, ya sea permanente o momentanea.
+
+Tambien hay que tenerlo en cuenta en apps que se usan mientras uno esta en movimiento.
+
+- Nielsen/Norman: 1cm x 1cm (0.4 in x 0.4 in)
+- Material Design: 48px x 48px
+- iOS: 44px x 44px
+
+
+
+------ TEXTO ALTERNATIVO: ATRIBUTO ALT PARA IMAGENES -------
+
+- Sirve para agregar informacion descriptiva a las imagenes relevantes. Fundamental en caso de necesitar un navegador para no videntes. Ademas, ES MUY BUENO PARA EL SEO DEL SITIO.
+
+
+
+------ HERRAMIENTAS Y PLUGINS ---------
+
+- Plugins de FIGMA: 
+
+- ABLE: FRICTION FREE ACCESSIBILITY
+- A11Y: COLOR CONTRAST CHECKER
+- STARK
+- COLOR BLIND
+- COLOR SAFE

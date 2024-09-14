@@ -70,7 +70,7 @@ EXITO (Exito de la tarea dandola por finalizada)
 - OVALO => Inicio o Final de un diagrama.
 - RECTANGULO => Pasos que tiene un proceso.
 - PARALELOGRAMO => Interaccion del usuario con la aplicacion.
-- ROMBO => Desiciones.
+- ROMBO => Decisiones.
 - CIRCULOS => Errores. Se vinculan con las cajas de decision.
 - FLECHAS => Representan una direccion en el flujo. Tambien para marcar el recorrido de un usuario en particular.
 
